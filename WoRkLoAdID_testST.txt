@@ -1,0 +1,5 @@
+"AadClientId": "8bbc7439-0f0e-4f0d-a663-f7363a44d4d3"
+"AadSecret": "MiR8Q~ThnV3inqy4S0WkLBvE-P7qdcweSBDzcdsV",
+"AadTenantDomain": "softeng.es",
+"AadTenantId": "62157828-6c47-4050-9b89-736f3284dbcf",
+
