@@ -1,4 +1,4 @@
 "AadClientId": "d81d0df1-b1fe-4678-8528-35f7c88d7bc6",
-"AadSecret": "609456c1-93c8-442d-b00e-4a281a846ff4",
+"AadSecret": "YaT******************",
 "AadTenantDomain": "cerfgroup.com",
 "AadTenantId": "8b87ca16-9e1b-4519-a425-4bc089cb79f8",
