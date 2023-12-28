@@ -1,5 +1,5 @@
 "AadClientId": "ce7a0111-7cbb-4c5d-9fc4-efb8f793fcc9",
-"AadSecret": "Fbq8Q~DrAuCrvu07Efu6jFg13yB4Mjz2ycaDOaTm",
+"AadSecret": "d40833a4-ffb9-4d68-99e0-82983ff9fa4b",
 "AadTenantDomain": "cerfgroup.com",
 "AadTenantId": "8b87ca16-9e1b-4519-a425-4bc089cb79f8",
 
